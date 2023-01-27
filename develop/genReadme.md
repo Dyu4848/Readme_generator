@@ -1,36 +1,36 @@
 
   # Project Title
-  Read.me Generator undefined
+  Readme Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   # Description
-  This application should be used to generate markdown files
+  This application is used to create a readme file through the cli
 
   ## Table of Contents
   
-  -[Title](#-Title)
-  -[Description](#-Description)
-  -[Installation](#-Installation)
-  -[Usage](#-Usage)
-  -[License](#-License)
-  -[Contribution](#-Contribution)
-  -[Test](#-Test)
-  -[Question](#-Question)
+  - [Title](#title)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contribution](#contribution)
+  - [Test](#test)
+  - [Question](#question)
 
   # Installation
-  Through npm
+  npm
 
   # Usage
-  this applications is used in order to create a markdown readme file through the node terminal
+  The usage of this application is that it can be used in order to create a markdown file through the terminal when users are asked prompts
 
   # License
-  undefined
-  undefined
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),
+  (https://opensource.org/licenses/MIT)
 
   # Contribution
   Me
 
   # Test
-  Yes
+  yes
 
   # Question
-  No
+  github.com/dyu4848
